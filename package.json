@@ -1,0 +1,10 @@
+{
+  "name": "nftcam2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "ipfs-api": "^26.1.2"
+  }
+}
